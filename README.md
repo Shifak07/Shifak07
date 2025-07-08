@@ -1,6 +1,5 @@
 ## Hi there 👋, I am Shifa Khan
 
-<!--
 🎓 Diploma Student in Computer Engineering  
 💻 Intern at Entwicklera | 📍 ARKP College  
 🔧 Passionate about coding, building cool projects, and learning new tech every day!
@@ -50,5 +49,5 @@
 
 ---
 
-_Thanks for visiting! Feel free to explore my repos, drop a star ⭐, or just say h
--->
+Thanks for visiting! Feel free to explore my repos, drop a star ⭐, or just say hi
+
